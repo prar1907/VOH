@@ -1,0 +1,47 @@
+{
+  "sessions": [
+    {
+      "session_id": "s_mofgrq30a4uu",
+      "join_code": "512607",
+      "patient_id": "pat_mofgrq2v0t5q",
+      "hospital_id": "hosp_cedars",
+      "assigned_doctor_id": "dr_hassan",
+      "language_code": "hi",
+      "language_name": "Hindi",
+      "care_circle": [],
+      "symptom_insights": [
+        {
+          "id": "ins_mofgsneq",
+          "insights": [],
+          "raw_text": "हेलो",
+          "language_code": "hi",
+          "method": "knowledge_base_only",
+          "timestamp": "2026-04-26T07:46:29.378Z"
+        },
+        {
+          "id": "ins_mofgtge8",
+          "insights": [],
+          "raw_text": "हेल्प हेल्प मदद",
+          "language_code": "hi",
+          "method": "knowledge_base_only",
+          "timestamp": "2026-04-26T07:47:06.944Z"
+        },
+        {
+          "id": "ins_mofgtk5r",
+          "insights": [],
+          "raw_text": "1 सेकंड",
+          "language_code": "hi",
+          "method": "knowledge_base_only",
+          "timestamp": "2026-04-26T07:47:11.823Z"
+        }
+      ],
+      "dietary_results": [],
+      "voice_messages": [],
+      "chat_history": [],
+      "mental_health_checkins": [],
+      "mental_health_appointments": [],
+      "created_at": "2026-04-26T07:45:46.193Z",
+      "updated_at": "2026-04-26T07:47:11.823Z"
+    }
+  ]
+}
